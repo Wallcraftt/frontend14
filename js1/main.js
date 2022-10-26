@@ -27,6 +27,8 @@ console.log ('User address is',newUser.addres)
 
 
 
+
+
 console.table(newUser)
 console.error(newUser.zipcode)
 alert('reload')
